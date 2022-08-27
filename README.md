@@ -1,3 +1,3 @@
 # Data Structures and Algorithms with Python
 
-Revising DSA with Python
+Revising Data Structures with Python
